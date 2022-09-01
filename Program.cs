@@ -20,7 +20,7 @@ if (num!.Length == 5){
   checknum(num);
 }
 else Console.WriteLine("Введите пятизначное число");
-/*
+
 // Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве
 
    // Ввод даннах 
@@ -68,4 +68,4 @@ void Cube (int n){
 Console.Write("Введите число: ");
 int n=Convert.ToInt32(Console.ReadLine());
 if (n <= 0) Console.Write("Некорректный ввод");
-else Cube(n); */
+else Cube(n); 
